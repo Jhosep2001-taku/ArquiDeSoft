@@ -6,7 +6,7 @@ public class GUI extends JFrame {
 
   private JButton btnJugar;
   private JLabel lblTitulo, lblNumero;
-  private Juego juego;
+  private Juego juego; 
 
   public GUI() { 
 
